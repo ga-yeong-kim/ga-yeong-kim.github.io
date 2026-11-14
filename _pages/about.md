@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "About Me“
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
 <div style="text-align: justify;" markdown="1">
 My research focuses on the development of **wastewater treatment** and **resource recovery technologies** to advance progress toward a **circular bioeconomy** and **sustainable development**. In particular, I develop environmental process models using both mechanistic and data-driven approaches to improve process understanding, performance prediction, and decision-making in wastewater treatment systems.
 </div>
