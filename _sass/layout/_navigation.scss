@@ -455,3 +455,20 @@
     }
   }
 }
+
+/* Align navigation with main content */
+@media (min-width: 1200px) {
+  .greedy-nav {
+    .visible-links {
+      margin-left: auto;
+      margin-right: 200px;
+
+      > li:first-child {
+        position: absolute;
+        left: 0;
+        top: 0;
+        white-space: nowrap;
+      }
+    }
+  }
+}
